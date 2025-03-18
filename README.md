@@ -1,6 +1,6 @@
 <img src="/Banner.png" alt="GitHub Banner" width="100%" />
 
-# Hellow World! I'm Sarthak Dhaduk...
+# Hello World! I'm Sarthak Dhaduk...
 
 🔭 I’m currently working on MERN Stack project.<br>👯 I’m looking to collaborate on Virtual-Collab-Studio Repository.<br>🌱 I’m currently learning NEXT JS.<br>💬 Ask me about Full Stack Web Development.
 
